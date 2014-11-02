@@ -148,9 +148,13 @@ body {
     padding: 48px 0 44px;
 }
 
-#menu-geekhub li a:active, #menu-geekhub li.current-menu-item a {
+#menu-geekhub li a:active, .site-header #menu-geekhub li.current-menu-item a {
     t-align: center;
     background: url('/wp-content/themes/twentyfourteen/images/inner_active.png') center bottom no-repeat;
+}
+
+.header-main #menu-geekhub li.current-menu-item a {
+
 }
 
 .social {
