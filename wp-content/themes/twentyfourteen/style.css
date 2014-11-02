@@ -148,7 +148,7 @@ body {
     padding: 48px 0 44px;
 }
 
-#menu-geekhub li a:active {
+#menu-geekhub li a:active, #menu-geekhub li.current-menu-item a {
     t-align: center;
     background: url('/wp-content/themes/twentyfourteen/images/inner_active.png') center bottom no-repeat;
 }
@@ -562,3 +562,4 @@ h3 {
     overflow: hidden;
     visibility: hidden;
 }
+
