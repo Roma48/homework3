@@ -9,7 +9,7 @@
  * @since Twenty Fourteen 1.0
  */
 ?>
-
+<div style="clear: both"></div>
 		</div><!-- #main -->
 
 		<footer id="colophon" class="site-footer" role="contentinfo">
